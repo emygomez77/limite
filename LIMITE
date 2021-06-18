@@ -1,0 +1,27 @@
+#include <iostream>
+#include <conio.h>
+
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main(int argc, char** argv) {
+	int x, potencia, expo, limite;
+
+	
+	printf("Digite el limite: ");
+	scanf("%i", &x);
+	
+	if (x = 7){
+		
+		limite = pow(x,2)-49/x-7
+	}
+	else{
+		if(x>7){
+			printf("Ingrese un numero válido\n");
+		}
+	}
+	
+	
+	
+	
+	return 0;
+}
